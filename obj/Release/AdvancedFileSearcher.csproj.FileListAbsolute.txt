@@ -1,0 +1,11 @@
+C:\Users\Veronica\source\repos\AdvancedFileSearcher\AdvancedFileSearcher\bin\Release\AdvancedFileSearcher.exe.config
+C:\Users\Veronica\source\repos\AdvancedFileSearcher\AdvancedFileSearcher\bin\Release\AdvancedFileSearcher.exe
+C:\Users\Veronica\source\repos\AdvancedFileSearcher\AdvancedFileSearcher\bin\Release\AdvancedFileSearcher.pdb
+C:\Users\Veronica\source\repos\AdvancedFileSearcher\AdvancedFileSearcher\obj\Release\AdvancedFileSearcher.csprojAssemblyReference.cache
+C:\Users\Veronica\source\repos\AdvancedFileSearcher\AdvancedFileSearcher\obj\Release\AdvancedFileSearcher.Properties.Resources.resources
+C:\Users\Veronica\source\repos\AdvancedFileSearcher\AdvancedFileSearcher\obj\Release\AdvancedFileSearcher.csproj.GenerateResource.cache
+C:\Users\Veronica\source\repos\AdvancedFileSearcher\AdvancedFileSearcher\obj\Release\AdvancedFileSearcher.csproj.CoreCompileInputs.cache
+C:\Users\Veronica\source\repos\AdvancedFileSearcher\AdvancedFileSearcher\obj\Release\AdvancedFileSearcher.exe
+C:\Users\Veronica\source\repos\AdvancedFileSearcher\AdvancedFileSearcher\obj\Release\AdvancedFileSearcher.pdb
+C:\Users\Veronica\source\repos\AdvancedFileSearcher\AdvancedFileSearcher\obj\Release\AdvancedFileSearcher.MainWnd.resources
+C:\Users\Veronica\source\repos\AdvancedFileSearcher\AdvancedFileSearcher\obj\Release\AdvancedFileSearcher.PreviewWnd.resources

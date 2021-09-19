@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AdvancedFileSearcher.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="InputPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F:\TEST\articles1</Value>
+    </Setting>
+    <Setting Name="SubMode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FilesType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.txt</Value>
+    </Setting>
+    <Setting Name="CondsData" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Keyword1[OR]Keyword2
+Keyword3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
