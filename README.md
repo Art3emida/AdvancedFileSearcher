@@ -1,2 +1,2 @@
 # AdvancedFileSearcher
- File Search Tool
+ File searching program
